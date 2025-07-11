@@ -1,5 +1,4 @@
 # Terraform-Project
-# Terraform-Project
 ![diagram-export-28-07-2024-12_00_07](https://github.com/user-attachments/assets/6b12808a-d3f9-4c31-9d12-44c141b225a8)
 
 The image depicts the infrastructure for deploying a Node.js application on AWS using Terraform.
