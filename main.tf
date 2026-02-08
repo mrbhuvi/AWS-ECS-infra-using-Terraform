@@ -1,4 +1,4 @@
-resource "aws_vpc" "vpc" {
+sdresource "aws_vpc" "vpc" {
   cidr_block = var.cidr_b
 
 }
